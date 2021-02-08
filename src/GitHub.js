@@ -5,7 +5,7 @@ export default function GitHub() {
         <div className="personal">
             <a
                 id="openSource"
-                href="https://github.com/Chairenerose/The-weather-app"
+                href="https://github.com/Chairenerose/Weather-Engine-React"
                 rel="noreferrer"
             >
                 Open-source code
